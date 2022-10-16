@@ -1,4 +1,4 @@
-package Restaurant;
+package Restaurant.Model;
 
 public class Client {
     private String datein;
